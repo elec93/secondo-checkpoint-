@@ -1,2 +1,2 @@
-# secondo-checkpoint-
+# secondo-checkpoint
 checkpoint: javacript
